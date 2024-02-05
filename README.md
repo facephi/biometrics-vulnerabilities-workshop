@@ -14,7 +14,10 @@ Simplemente tendrás que rellenar el siguiente [formulario](https://forms.office
 <br />
 
 #### **¿Habrá premio?**
-¡Por supuesto! **Próximamente...**
+¡Por supuesto! Para cada categoría, habrá un premio al ataque más original de un **cheque regalo de Amazon valorado en 150€**. Existen 2 categorías:
+* Ataques a sistemas biométricos
+* Ataques a sistemas de onboarding digital
+
 <br />
 
 El día 28 de febrero se anunciarán los ganadores, siendo la entrega de premios el 29 de febrero en el acto de clausura del Mes Cultural en la Universidad de Alicante.
